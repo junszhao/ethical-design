@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/ethical-design/static/css/main.5d0c5b71.css",
+    "main.js": "/ethical-design/static/js/main.1adff2e6.js",
+    "static/css/487.bb36206c.chunk.css": "/ethical-design/static/css/487.bb36206c.chunk.css",
+    "static/js/487.fb047def.chunk.js": "/ethical-design/static/js/487.fb047def.chunk.js",
+    "static/css/990.c6a7ee28.chunk.css": "/ethical-design/static/css/990.c6a7ee28.chunk.css",
+    "static/js/990.8838bb4a.chunk.js": "/ethical-design/static/js/990.8838bb4a.chunk.js",
+    "static/media/stanfordLogo.png": "/ethical-design/static/media/stanfordLogo.5a8e3a0a00949c93a9b8.png",
+    "static/media/harvardLogo.png": "/ethical-design/static/media/harvardLogo.542dab89bfb35b7f5c0d.png",
+    "static/media/Montserrat-Regular.ttf": "/ethical-design/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/ethical-design/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/ethical-design/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/ethical-design/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/quoraLogo.png": "/ethical-design/static/media/quoraLogo.85eb29f4d52320c8ed99.png",
+    "static/media/developerActivity.svg": "/ethical-design/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/googleAssistantLogo.webp": "/ethical-design/static/media/googleAssistantLogo.f720c71652579588524a.webp",
+    "static/media/airbnbLogo.png": "/ethical-design/static/media/airbnbLogo.e8497507db673acd3991.png",
+    "static/media/facebookLogo.png": "/ethical-design/static/media/facebookLogo.f46d68b24e9b4f73ee8b.png",
+    "static/media/codeInLogo.webp": "/ethical-design/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
+    "static/media/skill.svg": "/ethical-design/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/resume.pdf": "/ethical-design/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "static/media/pwaLogo.webp": "/ethical-design/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
+    "static/media/saayaHealthLogo.webp": "/ethical-design/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/nextuLogo.webp": "/ethical-design/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/ethical-design/index.html",
+    "static/media/talksCardBack.svg": "/ethical-design/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.5d0c5b71.css.map": "/ethical-design/static/css/main.5d0c5b71.css.map",
+    "main.1adff2e6.js.map": "/ethical-design/static/js/main.1adff2e6.js.map",
+    "487.bb36206c.chunk.css.map": "/ethical-design/static/css/487.bb36206c.chunk.css.map",
+    "487.fb047def.chunk.js.map": "/ethical-design/static/js/487.fb047def.chunk.js.map",
+    "990.c6a7ee28.chunk.css.map": "/ethical-design/static/css/990.c6a7ee28.chunk.css.map",
+    "990.8838bb4a.chunk.js.map": "/ethical-design/static/js/990.8838bb4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d0c5b71.css",
+    "static/js/main.1adff2e6.js"
+  ]
+}
