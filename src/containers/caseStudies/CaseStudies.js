@@ -13,7 +13,7 @@ export default function CaseStudies() {
         <Fade bottom duration={1000} distance="20px">
           <div className="experience-container" id="workExperience">
             <div>
-              <h1 className="experience-heading">Experiences</h1>
+              <h1 className="experience-heading">Case studies</h1>
               <div className="experience-cards-div">
                 {caseStudies.experience.map((card, i) => {
                   return (
