@@ -21,7 +21,7 @@ export default function Missions() {
             ) : (
               <img
                 alt="Man Working"
-                src={require("../../assets/images/developerActivity.svg")}
+                src={require("../../assets/images/mission.PNG")}
               ></img>
             )}
           </div>

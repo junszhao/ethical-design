@@ -8,7 +8,7 @@ import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your
 // Splash Screen
 
 const splashScreen = {
-  enabled: true, // set false to disable splash screen
+  enabled: false, // set false to disable splash screen
   animation: splashAnimation,
   duration: 2000 // Set animation duration as per your animation
 };
@@ -16,7 +16,7 @@ const splashScreen = {
 // Summary And Greeting Section
 
 const illustration = {
-  animated: true // Set to false to use static SVG
+  animated: false // Set to false to use static SVG
 };
 
 const greeting = {
@@ -32,8 +32,8 @@ const greeting = {
 
 const socialMediaLinks = {
   twitter: "https://x.com/oxfordccai",
-  github: "https://github.com/OxfordHCC",
-  display: true // Set true to display this section, defaults to false
+  github: "https://github.com/junszhao",
+  display: false // Set true to display this section, defaults to false
 };
 
 // Skills Section
@@ -61,7 +61,7 @@ const caseStudies = {
     {
       role: "YouTube video recommendations",
       company: "YouTube",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/youtubeLogo.jpg"),
       // date: "June 2018 – Present",
       // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       // descBullets: [
@@ -72,14 +72,14 @@ const caseStudies = {
     {
       role: "Data autonomy on Social media",
       company: "Tiktok",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("./assets/images/tiktokLogo.png"),
       // date: "May 2017 – May 2018",
       // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
       role: "New digital parenting opportunities",
       company: "KOALA Hero",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/koala.png"),
       // date: "Jan 2015 – Sep 2015",
       // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
@@ -87,14 +87,14 @@ const caseStudies = {
 };
 
 
-// Blogs Section
+// References Section
 
-const blogSection = {
+const refSection = {
   title: "References",
   subtitle:
     "References underpinning the principles and practices.",
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
-  blogs: [
+  refs: [
     {
       url: "https://www.nature.com/articles/s42256-024-00805-x",
       title: "Challenges and opportunities in translating ethical AI principles into practice for children",
@@ -137,7 +137,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi?",
   number: "",
-  email_address: "chaild@org.uk"
+  email_address: "info@aiethicaldesign.org"
 };
 
 // Twitter Section
@@ -156,7 +156,7 @@ export {
   splashScreen,
   missionsSection,
   caseStudies,
-  blogSection,
+  refSection,
   talkSection,
   contactInfo,
   twitterDetails,

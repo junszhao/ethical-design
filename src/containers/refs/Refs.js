@@ -1,10 +1,10 @@
 import React, {useState, useEffect, useContext} from "react";
-import "./Blog.scss";
+import "./Ref.scss";
 import BlogCard from "../../components/blogCard/BlogCard";
-import {blogSection} from "../../portfolio";
+import {refSection} from "../../portfolio";
 import {Fade} from "react-reveal";
 import StyleContext from "../../contexts/StyleContext";
-export default function Blogs() {
+export default function Refs() {
   const {isDark} = useContext(StyleContext);
   const [mediumBlogs, setMediumBlogs] = useState([]);
   function setMediumBlogsFunction(array) {
@@ -21,7 +21,7 @@ export default function Blogs() {
       : NaN;
   }
   useEffect(() => {
-    if (blogSection.displayMediumBlogs === "true") {
+    if (refSection.displayMediumBlogs === "true") {
       const getProfileData = () => {
         fetch("/blogs.json")
           .then(result => {
@@ -37,33 +37,33 @@ export default function Blogs() {
               `${error} (because of this error Blogs section could not be displayed. Blogs section has reverted to default)`
             );
             setMediumBlogsFunction("Error");
-            blogSection.displayMediumBlogs = "false";
+            refSection.displayMediumBlogs = "false";
           });
       };
       getProfileData();
     }
   }, []);
-  if (!blogSection.display) {
+  if (!refSection.display) {
     return null;
   }
   return (
     <Fade bottom duration={1000} distance="20px">
-      <div className="main" id="blogs">
-        <div className="blog-header">
-          <h1 className="blog-header-text">{blogSection.title}</h1>
+      <div className="main" id="refs">
+        <div className="ref-header">
+          <h1 className="ref-header-text">{refSection.title}</h1>
           <p
             className={
-              isDark ? "dark-mode blog-subtitle" : "subTitle blog-subtitle"
+              isDark ? "dark-mode ref-subtitle" : "subTitle ref-subtitle"
             }
           >
-            {blogSection.subtitle}
+            {refSection.subtitle}
           </p>
         </div>
-        <div className="blog-main-div">
-          <div className="blog-text-div">
-            {blogSection.displayMediumBlogs !== "true" ||
+        <div className="ref-main-div">
+          <div className="ref-text-div">
+            {refSection.displayMediumBlogs !== "true" ||
             mediumBlogs === "Error"
-              ? blogSection.blogs.map((blog, i) => {
+              ? refSection.refs.map((blog, i) => {
                   return (
                     <BlogCard
                       key={i}
