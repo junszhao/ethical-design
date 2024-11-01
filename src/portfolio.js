@@ -90,25 +90,25 @@ const caseStudies = {
 // Blogs Section
 
 const blogSection = {
-  title: "Blogs",
+  title: "References",
   subtitle:
-    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+    "References underpinning the principles and practices.",
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      url: "https://www.nature.com/articles/s42256-024-00805-x",
+      title: "Challenges and opportunities in translating ethical AI principles into practice for children",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "A map of the current global ethics guidelines for AI and their correlation with children."
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
+      url: "https://doi.org/10.1145/3491102.3502057",
+      title: "Informing Age-Appropriate AI: Examining Principles and Practices of AI for Children",
       description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+        "A landscape analysis of current children’s AI systems and their alignment with ethical AI design principles."
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
