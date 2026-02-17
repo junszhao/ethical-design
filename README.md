@@ -50,16 +50,20 @@ The framework is built around two sets of reasoning lenses and a four-stage proc
 ## What's in This Repository
 
 ```
-├── framework/           # CHAI framework documentation and visual materials
-│   ├── agency-types/    # Descriptions and illustrations of the four agency types
-│   ├── agency-levels/   # The three-level reasoning lens with child-perspective prompts
-│   └── mapping-matrix/  # The agency mapping matrix template
-├── workshops/           # Participatory workshop materials
-│   ├── facilitator-guide/
-│   ├── figma-templates/
-│   └── questionnaires/
-├── case-studies/        # Worked examples from child–AI design projects
-└── report/              # Non-academic project report (CHAI Framework Report)
+├── case_studies/                          # Worked examples from participatory design workshops
+│   ├── case study 0/                      # Pilot study (workshop board images)
+│   ├── case study 1/                      # Workshop session 1 (3 workshop PDFs)
+│   ├── case study 2/                      # Workshop session 2 (3 workshop PDFs)
+│   └── case study 3/                      # Workshop session 3 (3 workshop PDFs)
+├── docs/                                  # Project documentation
+│   └── Designing for Children's Agency Report.md
+├── workshop_material/                     # Participatory workshop materials
+│   ├── Design for Agency Workshop - Example.pdf
+│   ├── Design for Agency Workshop - Stage 1.pdf
+│   ├── Design for Agency Workshop - Stage 2.pdf
+│   ├── Design for Agency Workshop - Stage 3.pdf
+│   └── Design for Agency Workshop - Stage 4.pdf
+└── README.md
 ```
 
 > **Note:** This repository is actively being developed. Some directories may be added or restructured as we release additional materials. Watch or star the repo to stay updated.
@@ -118,7 +122,7 @@ If you use the CHAI framework or workshop materials in your work, please cite:
 ```
 @article{yang2026exploring,
   title={Exploring a Design Framework for Children's Agency through Participatory Design},
-  author={Yang, Boyin, and Zhao, Jun},
+  author={Yang, Boyin and Zhao, Jun},
   year={2026},
   note={Under review}
 }
@@ -131,7 +135,8 @@ This work is openly available for research and educational use. See [LICENSE](LI
 ## Contact
 
 - **Oxford Child-Centred AI Design Lab** — [oxfordccai.org](https://oxfordccai.org/)
-- **Dr. Jun Zhao** — Principal Investigator
+- **Dr. Boyin Yang**: boyin.yang@cs.ox.ac.uk 
+- **Dr. Jun Zhao**: jun.zhao@cs.ox.ac.uk
 
 ---
 
