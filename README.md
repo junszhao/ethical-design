@@ -78,12 +78,9 @@ The CHAI framework distinguishes four types of agency, drawn from Bandura's soci
 
 ## Getting Started
 
-All materials are available both as a [public Figma board](https://www.figma.com/board/ZAdvuZZbakSogRIwY0U3UY/Public-board?node-id=0-1&t=NTib5kfLvavU3lpl-1) and as PDFs in `workshop_material/` for offline use.
+Please read `INSTRUCTION.md` in `docs/`.
 
-1. **Understand the framework.** Read the `INSTRUCTION.md` in `docs/` to familiarise yourself with the four agency types, three levels, and the four-stage reasoning process.
-2. **Explore the example.** Review the worked example from our pilot study on the [Figma board](https://www.figma.com/board/ZAdvuZZbakSogRIwY0U3UY/Public-board?node-id=0-1&t=NTib5kfLvavU3lpl-1) (or PDFs under `/workshop_material`) to see how the framework is applied in practice.
-3. **Run a workshop.** Use the stage 1–4 workshop templates to guide your team through the CHAI reasoning process (60–90 minutes, works remotely via any whiteboard tool).
-4. **Review case studies.** Browse real workshop outputs from our evaluation sessions on the [case study Figma board](https://www.figma.com/board/VwiVVPciKEeYWgtHgMU4hr/CHAI-evaluations?node-id=0-1&t=3Ro3fta3EqTs7s7C-1) or in `case_studies/` to see how other teams navigated agency trade-offs.
+All materials are available both as a [public Figma board](https://www.figma.com/board/ZAdvuZZbakSogRIwY0U3UY/Public-board?node-id=0-1&t=NTib5kfLvavU3lpl-1) and as PDFs in `workshop_material/` for offline use.
 
 ## What We Found
 
