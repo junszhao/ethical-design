@@ -80,8 +80,6 @@ The CHAI framework distinguishes four types of agency, drawn from Bandura's soci
 
 Please read `INSTRUCTION.md` in `docs/`.
 
-All materials are available both as a [public Figma board](https://www.figma.com/board/ZAdvuZZbakSogRIwY0U3UY/Public-board?node-id=0-1&t=NTib5kfLvavU3lpl-1) and as PDFs in `workshop_material/` for offline use.
-
 ## What We Found
 
 We ran participatory workshops with four design teams (nine designers) building child–AI systems. Key findings:

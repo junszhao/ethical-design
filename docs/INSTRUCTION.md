@@ -1,6 +1,7 @@
 # CHAI Framework: Instruction
 
-The CHAI framework is designed to be applied in an interative design workshop setting, following the reasoning porcess in Fig. 1. All materials are available on our [public Figma board](https://www.figma.com/board/ZAdvuZZbakSogRIwY0U3UY/Public-board?node-id=0-1&t=NTib5kfLvavU3lpl-1) and as PDFs in `workshop_material/`.
+The CHAI framework is designed to be applied in an interative design workshop setting, following the reasoning porcess in Fig. 1. 
+
 
 ![The four-stage reasoning process of the CHAI framework, showing how designers’ reasoning about children’s agency is transformed from an initial design context into explicit agency design through assessment, mapping, application, and reflection. The process produces intermediate reasoning artefacts and allows iteration among later stages.](/images/four_stages.png)
 *Fig. 1: The four-stage reasoning process of the CHAI framework, showing how designers’ reasoning about children’s agency is transformed from an initial design context into explicit agency design through assessment, mapping, application, and reflection. The process produces intermediate reasoning artefacts and allows iteration among later stages.*
@@ -57,5 +58,5 @@ The CHAI framework is designed to be applied in an interative design workshop se
 
 To see the framework in action, review our pilot study example:
 
-- **Figma board:** Available on the [public Figma board](https://www.figma.com/board/ZAdvuZZbakSogRIwY0U3UY/Public-board?node-id=0-1&t=NTib5kfLvavU3lpl-1) (look for the example section)
+- **Figma board:** Available on the [case study Figma board](https://www.figma.com/board/VwiVVPciKEeYWgtHgMU4hr/CHAI-evaluations?node-id=0-1&t=78nUxWu4OtpSdvCJ-1).
 - **PDF:** `Design for Agency Workshop - Example.pdf` in `workshop_material/` and case studies in `case_studies/`
