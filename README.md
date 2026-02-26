@@ -27,67 +27,63 @@ The CHAI framework addresses this gap. Rather than prescribing specific design s
 
 ### Core Concepts
 
-The framework is built around two sets of reasoning lenses and a four-stage process.
+The CHAI framework distinguishes four types of agency, drawn from Bandura's social cognitive theory. These function as **reasoning lenses** — they prompt you to consider how agency is distributed across different stakeholders in your system.
 
-**Four types of agency** — drawn from Bandura's social cognitive theory — prompt designers to consider how agency is distributed across stakeholders:
 
-- **Individual agency** — the child acts and chooses independently within the system
-- **Co-agency** — control and influence are shared between the child and others (parent, peer, teacher)
-- **Proxy agency** — others act on the child's behalf, while the child's voice should remain represented
-- **Collective agency** — children act together with peers or communities to influence shared outcomes
+<figure align="center">
+  <img src="/images/four_types_of_agency.png" alt="Four types of agency used in the CHAI framework as reasoning lenses." width="60%">
+  <figcaption>Fig. 1: Four types of agency used in the CHAI framework. The visual abstractions represent different loci of action, control, and coordination across key stakeholders in each agency type.</figcaption>
+</figure>
+
 
 **Three levels of agency** (low, medium, high) describe the degree of children's involvement, expressed from the child's point of view. Importantly, higher is not always better — trade-offs are inherent and children's best interests should guide decisions.
 
+<figure align="center">
+  <img src="/images/three_levels_of_agency.png" alt="Three levels of agency used in the CHAI framework as reasoning lenses." width="70%">
+  <figcaption>Fig. 2: Three levels of agency. The levels capture differences in children's involvement in initiating actions, influencing decisions, and shaping outcomes, as well as how these processes are mediated by other stakeholders and the AI system.</figcaption>
+</figure>
+
 ### The Four-Stage Reasoning Process
 
-| Stage | What happens | Output |
-|---|---|---|
-| **1. Assessment** | Articulate agency-related design goals. Clarify which forms of agency are valued, for whom, and why. | Shared understanding of agency intent |
-| **2. Mapping** | Link agency types and levels to concrete system components using the agency mapping matrix. | Agency priority map |
-| **3. Application** | Select consequential system functions and explore redesigns to better support target agency levels. | Redesign proposals with trade-off analysis |
-| **4. Reflection** | Examine how reasoning evolved. Surface tensions, constraints, and next steps. | Design brief for implementation |
+![The four-stage reasoning process of the CHAI framework, showing how designers’ reasoning about children’s agency is transformed from an initial design context into explicit agency design through assessment, mapping, application, and reflection. The process produces intermediate reasoning artefacts and allows iteration among later stages.](/images/four_stages.png)
+*Fig. 3: The four-stage reasoning process of the CHAI framework, showing how designers’ reasoning about children’s agency is transformed from an initial design context into explicit agency design through assessment, mapping, application, and reflection. The process produces intermediate reasoning artefacts and allows iteration among later stages.*
+
 
 ## What's in This Repository
 
 ```
-├── case_studies/                          # Worked examples from participatory design workshops
-│   ├── case study 0/                      # Pilot study (workshop board images)
-│   ├── case study 1/                      # Workshop session 1 (3 workshop PDFs)
-│   ├── case study 2/                      # Workshop session 2 (3 workshop PDFs)
-│   └── case study 3/                      # Workshop session 3 (3 workshop PDFs)
-├── docs/                                  # Project documentation
+├── case_studies/                               # Worked examples from participatory design workshops
+│   ├── case study 0/                           # Pilot study outputs (2 workshop board images)
+│   ├── case study 1/                           # Workshop session 1 outputs (3 PDFs)
+│   ├── case study 2/                           # Workshop session 2 outputs (3 PDFs)
+│   └── case study 3/                           # Workshop session 3 outputs (3 PDFs)
+├── docs/                                       # Project documentation and usage guidance
+│   ├── INSTRUCTION.md                          # How to apply the CHAI framework step-by-step
 │   └── Designing for Children's Agency Report.md
-├── workshop_material/                     # Participatory workshop materials
+├── images/                                     # Framework figures used in this README
+│   ├── four_stages.png
+│   ├── four_types_of_agency.png
+│   └── three_levels_of_agency.png
+├── workshop_material/                          # Participatory workshop templates and examples
 │   ├── Design for Agency Workshop - Example.pdf
 │   ├── Design for Agency Workshop - Stage 1.pdf
 │   ├── Design for Agency Workshop - Stage 2.pdf
 │   ├── Design for Agency Workshop - Stage 3.pdf
-│   └── Design for Agency Workshop - Stage 4.pdf
+│   ├── Design for Agency Workshop - Stage 4.pdf
+│   └── questionnaire/
+│       ├── Pre-Questionnaire.pdf
+│       └── Post-Questionnaire.pdf
 └── README.md
 ```
 
-> **Note:** This repository is actively being developed. Some directories may be added or restructured as we release additional materials. Watch or star the repo to stay updated.
-
 ## Getting Started
 
-### If you're a design team
+All materials are available both as a [public Figma board](https://www.figma.com/board/ZAdvuZZbakSogRIwY0U3UY/Public-board?node-id=0-1&t=NTib5kfLvavU3lpl-1) and as PDFs in `workshop_material/` for offline use.
 
-1. **Read the framework overview** in `framework/` to understand the four agency types and three levels
-2. **Download the mapping matrix** template — this is the hands-on tool you'll use in design sessions
-3. **Run a workshop** using the facilitator guide in `workshops/` (60–90 minutes, works remotely via any whiteboard tool)
-4. **Review case studies** to see how other teams navigated agency trade-offs
-
-### If you're a researcher
-
-1. Start with the framework documentation for the conceptual grounding
-2. The workshop materials include the full study protocol, questionnaires, and Figma board templates used in our participatory workshops
-3. Adapt and extend for your own research context
-
-### If you're an educator
-
-1. The workshop structure is designed for small teams (2–4 people) and works well in studio or seminar settings
-2. Case studies provide ready-made discussion material
-3. The pre/post questionnaires can support assessment
+1. **Understand the framework.** Read the `INSTRUCTION.md` in `docs/` to familiarise yourself with the four agency types, three levels, and the four-stage reasoning process.
+2. **Explore the example.** Review the worked example from our pilot study on the [Figma board](https://www.figma.com/board/ZAdvuZZbakSogRIwY0U3UY/Public-board?node-id=0-1&t=NTib5kfLvavU3lpl-1) (or PDFs under `/workshop_material`) to see how the framework is applied in practice.
+3. **Run a workshop.** Use the stage 1–4 workshop templates to guide your team through the CHAI reasoning process (60–90 minutes, works remotely via any whiteboard tool).
+4. **Review case studies.** Browse real workshop outputs from our evaluation sessions on the [case study Figma board](https://www.figma.com/board/VwiVVPciKEeYWgtHgMU4hr/CHAI-evaluations?node-id=0-1&t=3Ro3fta3EqTs7s7C-1) or in `case_studies/` to see how other teams navigated agency trade-offs.
 
 ## What We Found
 
@@ -106,14 +102,6 @@ This work is developed in collaboration with:
 - [FAM Studio](https://famstudio.co/)
 - [CHAILD Project](https://oxfordccai.org/) (UKRI-funded, Children's Agency in the Age of AI)
 
-## Contributing
-
-We welcome contributions from researchers, designers, and practitioners. You can:
-
-- **Share case studies** of agency-related design decisions in child–AI systems
-- **Translate materials** into other languages
-- **Report issues** or suggest improvements via [GitHub Issues](../../issues)
-- **Adapt and extend** the framework for new contexts (and let us know how it went)
 
 ## Citation
 
