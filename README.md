@@ -116,10 +116,6 @@ If you use the CHAI framework or workshop materials in your work, please cite:
 }
 ```
 
-## Licence
-
-This work is openly available for research and educational use. See [LICENSE](LICENSE) for details.
-
 ## Contact
 
 - **Oxford Child-Centred AI Design Lab** — [oxfordccai.org](https://oxfordccai.org/)
