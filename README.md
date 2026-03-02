@@ -60,6 +60,11 @@ The CHAI framework distinguishes four types of agency, drawn from Bandura's soci
 ├── docs/                                       # Project documentation and usage guidance
 │   ├── INSTRUCTION.md                          # How to apply the CHAI framework step-by-step
 │   └── Designing for Children's Agency Report.md
+├── example/                                    # Worked example of the four-stage reasoning process
+│   ├── Stage 1 - Assessment -  Design Context and Agency Intent.pdf
+│   ├── Stage 2 - Mapping - Agency Annotation.pdf
+│   ├── Stage 3 - Application - Critical Redesign.pdf
+│   └── Stage 4 - Reflection - Reasoning Review.pdf
 ├── images/                                     # Framework figures used in this README
 │   ├── four_stages.png
 │   ├── four_types_of_agency.png
@@ -73,6 +78,7 @@ The CHAI framework distinguishes four types of agency, drawn from Bandura's soci
 │   └── questionnaire/
 │       ├── Pre-Questionnaire.pdf
 │       └── Post-Questionnaire.pdf
+├── LICENSE
 └── README.md
 ```
 
