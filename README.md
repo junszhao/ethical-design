@@ -86,6 +86,10 @@ The CHAI framework distinguishes four types of agency, drawn from Bandura's soci
 
 Please read `INSTRUCTION.md` in `docs/`.
 
+### Tutorial Video
+
+![Design for Agency Workshop — PokeForest Tutorial](https://youtu.be/kVLSBLhkwmM)
+
 ## What We Found
 
 We ran participatory workshops with four design teams (nine designers) building child–AI systems. Key findings:
