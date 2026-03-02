@@ -88,7 +88,10 @@ Please read `INSTRUCTION.md` in `docs/`.
 
 ### Tutorial Video
 
-[![Design for Agency Workshop — PokeForest Tutorial](https://img.youtube.com/vi/kVLSBLhkwmM/maxresdefault.jpg)](https://www.youtube.com/watch?v=kVLSBLhkwmM)
+[![Design for Agency Workshop — PokeForest Tutorial](https://img.youtube.com/vi/kVLSBLhkwmM/0.jpg)](https://www.youtube.com/watch?v=kVLSBLhkwmM)
+
+*Click to watch the full tutorial on YouTube*
+
 
 ## What We Found
 
