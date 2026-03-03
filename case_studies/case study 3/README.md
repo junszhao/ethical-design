@@ -1,4 +1,4 @@
-# Case study 3: An AI-based too to support children's social emotional learning
+# Case study 3: An AI-based tool to support children's social emotional learning
 
 ## The original design goal
 
