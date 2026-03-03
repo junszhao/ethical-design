@@ -1,4 +1,4 @@
-# **Designing for Children's Agency in AI** 
+# **Designing for Children's Agency in AI -- A Public Report** 
 
 # **1. Introduction**
 
