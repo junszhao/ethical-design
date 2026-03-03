@@ -39,6 +39,9 @@ This gives us the CHAI framework, which contains a four-step reasoning process, 
 
 CHAI supports designers through a four-stage reasoning process, including: **Assessment** (articulating the value of agency  in the system and clarifying which forms of agency are valued, for whom, and why); **Mapping** (linking agency types and levels to concrete system components and interactions via an agency mapping matrix); **Application** (updating system functions and exploring redesigns to better support agency); and **Reflection** (examining how reasoning evolved, surfacing tensions and constraints of different stakeholders (children and others), and preparing for implementation). 
 
+![The four-stage reasoning process of the CHAI framework, enabling designers’ to reason about children’s agency through assessment, mapping, application, and reflection. The process produces intermediate reasoning artefacts and allows iteration among later stages.](/images/four_stages.png)
+*Fig. 3: The four-stage reasoning process of the CHAI framework, showing how designers’ reasoning about children’s agency is transformed from an initial design context into explicit agency design through assessment, mapping, application, and reflection. The process produces intermediate reasoning artefacts and allows iteration among later stages.*
+
 To complement the overall reasoning process of CHAI, we provide **an agency conceptualisation framework** to assist designers to map the types of agencies that are relevant to their applications or systems. Furthermore, to help designers externalise the priority the different types of agencies for them within their system, we provide **an agency mapping matrix**, giving designers an instrument to reason about degrees of participation, control, and autonomy as experienced by the child, in relation to themselves or through interactions with different types of others. 
 
 ## **The agency conceptualisation framework** 
@@ -60,9 +63,20 @@ The framework distinguishes four analytically distinct types of agencies, which 
     or communities to influence shared outcomes through coordinated
     effort.
 
+    
+<figure align="center">
+  <img src="/images/four_types_of_agency.png" alt="Four types of agency used in the CHAI framework as reasoning lenses." width="60%">
+  <figcaption>Fig. 1: Four types of agency used in the CHAI framework. The visual abstractions represent different loci of action, control, and coordination across key stakeholders in each agency type.</figcaption>
+</figure>
+
 ## **The agency mapping matrix**
 
 For each type of agency, the mapping tool uses three levels (low, medium, high) to represent degrees of children’s involvement in the AI system, expressed from the child’s perspective. At a **low** level, the child’s role is primarily reactive. At a **medium** level, children can meaningfully influence interactions within bounded conditions. At a **high** level, children play an active role in shaping interactions and outcomes. Importantly, we have noted that maximising agency is not always the optimal goal; tensions and trade-offs may arise in practice, and children’s best interests should guide decisions. 
+
+<figure align="center">
+  <img src="/images/three_levels_of_agency.png" alt="Three levels of agency used in the CHAI framework as reasoning lenses." width="70%">
+  <figcaption>Fig. 2: Three levels of agency. The levels capture differences in children's involvement in initiating actions, influencing decisions, and shaping outcomes, as well as how these processes are mediated by other stakeholders and the AI system.</figcaption>
+</figure>
 
 ## **Open-Source Resources**
 
