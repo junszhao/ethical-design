@@ -1,4 +1,4 @@
-# Case study 0: An AI-based application to support children with special education needs
+# Case study 1: An AI-based application to support children with special education needs
 
 ## The original design goal
 
@@ -18,7 +18,7 @@ This process made them realise that while they are designing a system to support
 
 As a result of this mapping exercise, the team added a feedback loop, to provide system analysis back to the children, in an age-appropriate language. In this way, children are also provided with an overview of their behavioural analysis and be better engaged in the support process.
 
-![New data flow added to support children's individual agency.](./Design%20for%20Agency%20Workshop%20-%203.pdf)
+![New data flow added to support children's individual agency.](./Design%20for%20Agency%20Workshop%20-%203.png)
 
 
 #### Step 4: Reflection — Reasoning Review
