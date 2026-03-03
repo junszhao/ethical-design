@@ -60,6 +60,12 @@ The short video gives you a quick overview of how things fit togethr using a sim
 
 *Click to watch the full tutorial on YouTube*
 
+### Worked Example
+
+To see the framework in action, review our pilot study example:
+- **Figma board:** Available on the [case study Figma board](https://www.figma.com/board/VwiVVPciKEeYWgtHgMU4hr/CHAI-evaluations?node-id=0-1&t=78nUxWu4OtpSdvCJ-1).
+- **PDF:** Case studies in `case_studies/`
+
 
 ## What We Found
 
