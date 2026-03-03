@@ -49,38 +49,6 @@ The CHAI framework distinguishes four types of agency, drawn from Bandura's soci
 *Fig. 3: The four-stage reasoning process of the CHAI framework, showing how designers’ reasoning about children’s agency is transformed from an initial design context into explicit agency design through assessment, mapping, application, and reflection. The process produces intermediate reasoning artefacts and allows iteration among later stages.*
 
 
-## What's in This Repository
-
-```
-├── case_studies/                               # Worked examples from participatory design workshops
-│   ├── case study 0/                           # Pilot study outputs (2 workshop board images)
-│   ├── case study 1/                           # Workshop session 1 outputs (3 PDFs)
-│   ├── case study 2/                           # Workshop session 2 outputs (3 PDFs)
-│   └── case study 3/                           # Workshop session 3 outputs (3 PDFs)
-├── docs/                                       # Project documentation and usage guidance
-│   ├── INSTRUCTION.md                          # How to apply the CHAI framework step-by-step
-│   └── Designing for Children's Agency Report.md
-├── example/                                    # Worked example of the four-stage reasoning process
-│   ├── Stage 1 - Assessment -  Design Context and Agency Intent.pdf
-│   ├── Stage 2 - Mapping - Agency Annotation.pdf
-│   ├── Stage 3 - Application - Critical Redesign.pdf
-│   └── Stage 4 - Reflection - Reasoning Review.pdf
-├── images/                                     # Framework figures used in this README
-│   ├── four_stages.png
-│   ├── four_types_of_agency.png
-│   └── three_levels_of_agency.png
-├── workshop_material/                          # Participatory workshop templates and examples
-│   ├── Design for Agency Workshop - Example.pdf
-│   ├── Design for Agency Workshop - Stage 1.pdf
-│   ├── Design for Agency Workshop - Stage 2.pdf
-│   ├── Design for Agency Workshop - Stage 3.pdf
-│   ├── Design for Agency Workshop - Stage 4.pdf
-│   └── questionnaire/
-│       ├── Pre-Questionnaire.pdf
-│       └── Post-Questionnaire.pdf
-├── LICENSE
-└── README.md
-```
 
 ## Getting Started
 
@@ -124,6 +92,38 @@ If you use the CHAI framework or workshop materials in your work, please cite:
 }
 ```
 
+## What's in This Repository
+
+```
+├── case_studies/                               # Worked examples from participatory design workshops
+│   ├── case study 0/                           # Pilot study outputs (2 workshop board images)
+│   ├── case study 1/                           # Workshop session 1 outputs (3 PDFs)
+│   ├── case study 2/                           # Workshop session 2 outputs (3 PDFs)
+│   └── case study 3/                           # Workshop session 3 outputs (3 PDFs)
+├── docs/                                       # Project documentation and usage guidance
+│   ├── INSTRUCTION.md                          # How to apply the CHAI framework step-by-step
+│   └── Designing for Children's Agency Report.md
+├── example/                                    # Worked example of the four-stage reasoning process
+│   ├── Stage 1 - Assessment -  Design Context and Agency Intent.pdf
+│   ├── Stage 2 - Mapping - Agency Annotation.pdf
+│   ├── Stage 3 - Application - Critical Redesign.pdf
+│   └── Stage 4 - Reflection - Reasoning Review.pdf
+├── images/                                     # Framework figures used in this README
+│   ├── four_stages.png
+│   ├── four_types_of_agency.png
+│   └── three_levels_of_agency.png
+├── workshop_material/                          # Participatory workshop templates and examples
+│   ├── Design for Agency Workshop - Example.pdf
+│   ├── Design for Agency Workshop - Stage 1.pdf
+│   ├── Design for Agency Workshop - Stage 2.pdf
+│   ├── Design for Agency Workshop - Stage 3.pdf
+│   ├── Design for Agency Workshop - Stage 4.pdf
+│   └── questionnaire/
+│       ├── Pre-Questionnaire.pdf
+│       └── Post-Questionnaire.pdf
+├── LICENSE
+└── README.md
+```
 ## Contact
 
 - **Oxford Child-Centred AI Design Lab** — [oxfordccai.org](https://oxfordccai.org/)
