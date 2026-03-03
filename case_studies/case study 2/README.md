@@ -25,6 +25,6 @@ As a result of this mapping exercise, the team added two critical functions to t
 
 #### Step 4: Reflection — Reasoning Review
 
-The team reflected that the workshop made them further reflect whether they were pre-defining ``the agency of the parent or child when logging distress data''. Children might feel ``frightened'' by being recorded without consent during their interactions with their system, highlighting a tension between the ``parent's right to record'' and the ``child's right to privacy'', and thus revised their original design.
+The team reflected that the workshop made them further reflect whether they were pre-defining "the agency of the parent or child when logging distress data". Children might feel "frightened" by being recorded without consent during their interactions with their system, highlighting a tension between the "parent's right to record" and the "child's right to privacy", and thus revised their original design.
 
 
