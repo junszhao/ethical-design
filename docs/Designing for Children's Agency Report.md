@@ -80,14 +80,14 @@ A key benefit of the workshop was helping designers surface and articulate “de
 
 While perceptions varied slightly regarding how confident participants felt about translating agency into concrete design features (Q3–Q6), overall confidence in the design process increased. 
 
+Designers also reported that the framework supported more systematic reasoning about design choices and trade-offs. For example, participants reflected on how decisions made for efficiency or protection, such as adult-first workflows, restrictive settings, or highly structured prompt, could unintentionally remove children from the interaction loop or narrow their meaningful choices. 
+
+By applying the CHAI framework to their own systems, participants recognised instances where children’s voices had been unintentionally excluded from design decisions. They were able to identify opportunities to strengthen children’s participation, decision-making power, and overall agency. 
+
 <figure align="center">
   <img src="/images/understanding_of_agency.png" alt="Pre- and post-workshop self-reported agency understanding" width="60%">
   <figcaption>Fig. 1: Pre- and post-workshop self-reported agency understanding. Q1 evaluates participants' conceptual understanding of agency. Q2 understands stakeholder awareness. Q3--Q6 estimate concept translation to design.</figcaption>
 </figure>
-
-Designers also reported that the framework supported more systematic reasoning about design choices and trade-offs. For example, participants reflected on how decisions made for efficiency or protection, such as adult-first workflows, restrictive settings, or highly structured prompt, could unintentionally remove children from the interaction loop or narrow their meaningful choices. 
-
-By applying the CHAI framework to their own systems, participants recognised instances where children’s voices had been unintentionally excluded from design decisions. They were able to identify opportunities to strengthen children’s participation, decision-making power, and overall agency. 
 
 ## **Barriers and Challenges**
 
