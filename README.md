@@ -18,8 +18,8 @@ The CHAI framework addresses this gap. Rather than prescribing specific design s
 
 | Audience | How this helps |
 |---|---|
-| **Designers & developers** building AI products for or used by children | [A step-by-step reasoning process](/workshop_material) for embedding agency considerations into your design workflow |
-| **Researchers** in child–computer interaction, AI ethics, or participatory design | [A conceptual framework](/workshop_material/four_types_of_agency.png) with empirical grounding, plus workshop materials for running your own studies |
+| **Designers & developers** building AI products for or used by children | [A step-by-step reasoning process](/docs) for embedding agency considerations into your design workflow |
+| **Researchers** in child–computer interaction, AI ethics, or participatory design | [A conceptual framework](/workshop_material/docs) with empirical grounding, plus workshop materials for running your own studies |
 | **Educators** teaching ethical design, HCI, or responsible AI | Ready-to-use [workshop structures](/workshop_material) and [case study material](/case_studies) for classroom and studio settings |
 | **Policy & advocacy professionals** working on children's digital rights | An evidence-based perspective on what "designing for agency" means in practice |
 
@@ -52,10 +52,10 @@ The CHAI framework distinguishes four types of agency, drawn from Bandura's soci
 
 ## Getting Started
 
-Please read `INSTRUCTION.md` in `docs/`.
+Please read `INSTRUCTION.md` in `docs/`, and then the [workshop structures](/workshop_material) and [case study material](/case_studies) for a deep dive.
 
 ### Tutorial Video
-
+The short video gives you a quick overview of how things fit togethr using a simple design example.
 [![Design for Agency Workshop — PokeForest Tutorial](https://img.youtube.com/vi/kVLSBLhkwmM/0.jpg)](https://www.youtube.com/watch?v=kVLSBLhkwmM)
 
 *Click to watch the full tutorial on YouTube*
