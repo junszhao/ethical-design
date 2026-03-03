@@ -18,7 +18,7 @@ The CHAI framework addresses this gap. Rather than prescribing specific design s
 
 | Audience | How this helps |
 |---|---|
-| **Designers & developers** building AI products for or used by children | A step-by-step reasoning process for embedding agency considerations into your design workflow |
+| **Designers & developers** building AI products for or used by children | [A step-by-step reasoning process](/workshop_material) for embedding agency considerations into your design workflow |
 | **Researchers** in child–computer interaction, AI ethics, or participatory design | A conceptual framework with empirical grounding, plus workshop materials for running your own studies |
 | **Educators** teaching ethical design, HCI, or responsible AI | Ready-to-use workshop structures and case study material for classroom and studio settings |
 | **Policy & advocacy professionals** working on children's digital rights | An evidence-based perspective on what "designing for agency" means in practice |
